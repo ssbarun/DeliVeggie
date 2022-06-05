@@ -12,7 +12,7 @@ Steps required to build & run the application
 
 3. Build the application, in case of any warnings or errors, please rebuild all projects separately.
 
-4. Please update connection string in appSettings.json file in Web project & Test project folders to point to the required database.
+4. Please update connection string in appSettings.json file in Web project to point to the required database.
 
 5. For creating required database tables, please run the migration from the Nuget Package Manager console from the Tools Menu in Visual Studio
 	a. Please select the DAL project as the default project in the Package Manager console. 
